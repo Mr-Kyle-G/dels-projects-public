@@ -27,4 +27,26 @@
 &lt;li>&lt;strong>Satisfaction Guaranteed&lt;/strong> - We don&amp;rsquo;t leave until the job is done right&lt;/li>
 &lt;li>&lt;strong>Competitive Pricing&lt;/strong> - Fair rates with no hidden fees&lt;/li>
 &lt;li>&lt;strong>24/7 Emergency Service&lt;/strong> - Available when you need us most&lt;/li>
-&lt;/ul></description></item><item><title>Contact</title><link>https://www.delsprojects.co.za/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.delsprojects.co.za/contact/</guid><description>&lt;p>This is the contact form [WIP]&lt;/p></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Contact</title><link>https://www.delsprojects.co.za/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.delsprojects.co.za/contact/</guid><description>&lt;h3 id="get-in-touch">Get in touch!&lt;/h3>
+
+
+
+&lt;form class="black-80 sans-serif" accept-charset="UTF-8" action="https://formspree.io/f/xgvarjbw" method="POST" role="form">
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="name">Your Name&lt;/label>
+ &lt;input type="text" id="name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="name"/>
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="phone">Phone Number&lt;/label>
+ &lt;input type="text" id="phone" name="phone" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="phone"/>
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="email">Email Address&lt;/label>
+ &lt;input type="email" id="email" name="email" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="email"/>
+ &lt;div class="requirements f6 gray glow i ph3 overflow-hidden">
+ An email address is required.
+ &lt;/div>
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="message">Message&lt;/label>
+ &lt;textarea id="message" name="message" class="w-100 f5 pv3 ph3 bg-light-gray bn h4" aria-labelledby="message">&lt;/textarea>
+
+ &lt;input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black" type="submit" value="Send" />
+
+&lt;/form></description></item></channel></rss>
