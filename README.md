@@ -1,1 +1,0 @@
-# dels-projects-public
